@@ -11,5 +11,12 @@
           }
         }
       }
+    },
+    "entity": {
+      "button": {
+        "interrupt": {
+          "name": "Interrupt Car Connection"
+        }
+      }
     }
-  }
+}

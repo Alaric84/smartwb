@@ -2,10 +2,10 @@
     "config": {
       "step": {
         "user": {
-          "title": "Configure your StartWB",
-          "description": "Enter the IP, port, and name for the SmartWB.",
+          "title": "SmartWB konfigurieren",
+          "description": "Geben Sie IP, Port und Namen für SmartWB ein.",
           "data": {
-            "ip_address": "IP Address",
+            "ip_address": "IP-Adresse",
             "port": "Port",
             "name": "Name"
           }
@@ -15,7 +15,7 @@
     "entity": {
       "button": {
         "interrupt": {
-          "name": "Interrupt Car Connection"
+          "name": "Verbindung zum Fahrzeug unterbrechen"
         }
       }
     }
